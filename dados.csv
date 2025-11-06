@@ -1,0 +1,1001 @@
+idade,lia_na_infancia,livros_por_mes,nivel_educacional,renda_mensal
+31,Sim,6,Médio incompleto,3701
+33,Não,1,Superior incompleto,2149
+18,Não,0,Superior incompleto,2055
+21,Sim,6,Superior completo,7559
+32,Não,3,Médio incompleto,3375
+45,Sim,8,Superior incompleto,4238
+53,Não,3,Médio incompleto,1793
+57,Não,2,Médio completo,2534
+56,Sim,7,Superior incompleto,4101
+34,Não,3,Médio completo,3384
+47,Não,1,Fundamental,2957
+51,Sim,6,Superior incompleto,7712
+34,Não,1,Médio completo,3785
+33,Sim,6,Superior completo,5170
+51,Não,3,Fundamental,1560
+55,Não,1,Médio completo,1246
+33,Sim,8,Superior completo,2595
+21,Sim,3,Fundamental,5795
+57,Sim,5,Médio incompleto,6311
+60,Sim,7,Médio completo,3955
+47,Sim,5,Médio completo,4877
+33,Não,0,Médio completo,3200
+44,Sim,5,Superior completo,4268
+38,Não,2,Médio incompleto,2171
+52,Sim,5,Fundamental,7634
+46,Sim,6,Superior incompleto,5057
+41,Não,1,Fundamental,2142
+58,Sim,6,Médio completo,7358
+35,Sim,7,Médio completo,4369
+57,Sim,7,Médio completo,6121
+36,Sim,8,Superior incompleto,2789
+19,Não,0,Superior incompleto,2975
+46,Sim,8,Superior completo,6384
+29,Sim,7,Superior completo,5056
+60,Não,0,Superior incompleto,1193
+26,Sim,4,Superior incompleto,3778
+38,Não,1,Superior incompleto,1516
+48,Sim,3,Superior completo,5723
+45,Sim,7,Médio completo,3092
+25,Sim,7,Superior incompleto,6679
+48,Não,3,Superior incompleto,2483
+41,Sim,8,Superior completo,5740
+43,Não,3,Superior incompleto,3087
+21,Sim,3,Médio completo,3560
+42,Sim,7,Médio incompleto,4188
+59,Sim,4,Superior incompleto,3534
+56,Sim,6,Superior incompleto,3151
+31,Não,2,Fundamental,1781
+25,Sim,2,Médio incompleto,5236
+42,Sim,7,Superior incompleto,5098
+22,Sim,7,Superior completo,6762
+41,Não,2,Fundamental,3435
+25,Não,2,Superior incompleto,3514
+30,Não,1,Fundamental,3321
+26,Sim,3,Médio completo,3875
+47,Não,1,Superior completo,2570
+40,Não,0,Médio incompleto,3538
+27,Sim,7,Superior completo,2626
+50,Sim,2,Superior completo,7615
+25,Não,3,Médio completo,2183
+60,Não,0,Superior incompleto,2502
+53,Sim,2,Superior incompleto,6485
+40,Sim,3,Médio completo,4170
+51,Não,0,Médio completo,3160
+36,Sim,5,Superior incompleto,5154
+19,Sim,3,Médio completo,7188
+41,Sim,6,Superior completo,3743
+42,Sim,3,Superior completo,5990
+59,Não,2,Fundamental,3480
+28,Sim,5,Superior incompleto,4654
+21,Não,0,Médio completo,1627
+32,Não,2,Médio incompleto,2511
+21,Não,2,Médio incompleto,1544
+41,Não,1,Médio incompleto,1390
+48,Não,1,Superior incompleto,3202
+45,Sim,6,Médio completo,4863
+59,Não,1,Médio completo,2606
+51,Sim,5,Médio completo,6563
+36,Não,2,Superior completo,1827
+46,Sim,7,Superior incompleto,5519
+41,Sim,2,Superior incompleto,3938
+24,Sim,3,Superior incompleto,3380
+25,Não,1,Fundamental,3919
+33,Não,2,Fundamental,3852
+39,Sim,4,Superior incompleto,7308
+24,Não,0,Médio incompleto,2074
+55,Não,1,Fundamental,2933
+47,Não,3,Médio incompleto,3242
+38,Sim,8,Médio incompleto,4521
+58,Sim,4,Médio completo,2771
+32,Não,0,Médio incompleto,3171
+30,Não,3,Médio incompleto,1375
+59,Sim,4,Médio incompleto,6705
+49,Sim,6,Médio completo,3474
+24,Não,2,Superior incompleto,3395
+46,Não,3,Fundamental,2567
+49,Não,0,Fundamental,3380
+34,Sim,6,Superior completo,7962
+20,Sim,4,Superior incompleto,6181
+45,Sim,3,Superior completo,5292
+38,Sim,3,Superior incompleto,5170
+39,Sim,5,Superior completo,4042
+25,Não,1,Médio completo,2859
+39,Sim,8,Médio completo,5340
+21,Sim,6,Superior completo,4817
+26,Não,3,Superior completo,3786
+30,Sim,7,Superior completo,6121
+40,Sim,8,Médio completo,5764
+36,Sim,2,Superior incompleto,4455
+37,Não,2,Médio completo,2454
+34,Não,2,Superior incompleto,1710
+56,Sim,7,Superior incompleto,6675
+44,Sim,5,Superior incompleto,6379
+46,Sim,7,Médio completo,3711
+42,Não,1,Médio incompleto,1780
+60,Não,1,Médio completo,1663
+36,Não,0,Médio completo,2676
+30,Não,2,Fundamental,3261
+35,Não,1,Médio incompleto,3605
+22,Sim,8,Médio completo,7681
+58,Sim,4,Superior completo,6806
+43,Sim,5,Superior completo,6574
+32,Não,0,Médio incompleto,1507
+40,Sim,4,Médio completo,4907
+55,Sim,4,Médio completo,6507
+34,Sim,7,Médio incompleto,5244
+28,Não,0,Médio completo,3356
+26,Sim,4,Superior incompleto,4988
+41,Sim,6,Médio completo,4236
+23,Sim,7,Superior completo,7712
+27,Sim,5,Médio completo,5762
+33,Sim,5,Médio completo,6808
+25,Sim,7,Superior incompleto,4909
+42,Sim,5,Superior incompleto,5472
+39,Sim,7,Médio completo,7630
+24,Não,2,Fundamental,2742
+47,Sim,4,Superior incompleto,5734
+38,Sim,8,Médio completo,3279
+48,Não,0,Superior incompleto,1507
+28,Não,2,Médio completo,2746
+54,Não,3,Médio completo,1154
+20,Não,1,Superior incompleto,1282
+31,Não,2,Médio incompleto,1905
+32,Sim,5,Superior completo,6504
+29,Não,1,Fundamental,1642
+37,Não,0,Médio incompleto,1100
+41,Não,1,Médio completo,1521
+18,Não,3,Superior incompleto,2336
+55,Sim,4,Superior completo,4465
+22,Sim,6,Superior completo,7894
+21,Não,0,Médio completo,3530
+21,Sim,3,Médio completo,3520
+21,Não,2,Médio incompleto,1591
+58,Sim,3,Superior completo,6369
+29,Não,3,Médio incompleto,3812
+44,Sim,6,Fundamental,2779
+19,Não,2,Fundamental,2034
+38,Não,1,Médio incompleto,3360
+25,Não,2,Fundamental,1866
+25,Não,3,Médio completo,1235
+49,Não,3,Médio incompleto,2335
+26,Sim,5,Médio incompleto,3713
+53,Sim,7,Médio completo,3527
+33,Sim,4,Superior incompleto,2670
+52,Sim,4,Superior incompleto,5489
+39,Sim,8,Superior incompleto,6278
+51,Não,2,Médio incompleto,2800
+58,Sim,6,Superior completo,6287
+55,Sim,5,Superior incompleto,4925
+34,Sim,4,Superior completo,7193
+43,Não,2,Fundamental,1501
+43,Não,1,Médio incompleto,1118
+27,Sim,7,Fundamental,5021
+58,Sim,5,Superior incompleto,7717
+29,Sim,8,Superior completo,7587
+20,Sim,8,Médio completo,5833
+47,Não,2,Médio incompleto,3341
+53,Sim,5,Superior completo,5163
+51,Sim,8,Superior completo,2842
+37,Sim,7,Superior completo,5078
+24,Sim,3,Médio incompleto,4068
+20,Sim,8,Médio incompleto,2762
+59,Não,0,Superior incompleto,3351
+19,Não,0,Superior completo,3858
+22,Sim,5,Médio completo,3619
+19,Não,2,Médio incompleto,1284
+41,Não,1,Médio incompleto,3210
+25,Sim,8,Superior incompleto,4976
+36,Não,3,Fundamental,1199
+38,Não,3,Médio incompleto,2893
+29,Sim,3,Superior incompleto,6917
+56,Não,3,Fundamental,2577
+20,Sim,8,Superior incompleto,3698
+45,Sim,8,Superior completo,5175
+27,Sim,3,Médio completo,7556
+40,Não,2,Superior incompleto,3818
+54,Não,3,Fundamental,1866
+47,Sim,7,Superior completo,7102
+28,Não,0,Fundamental,1759
+32,Sim,3,Superior completo,5623
+26,Não,1,Médio incompleto,3088
+53,Sim,5,Superior completo,6005
+35,Sim,4,Superior completo,4142
+26,Sim,7,Superior incompleto,5079
+22,Não,2,Médio incompleto,3051
+51,Não,0,Médio completo,2666
+43,Sim,2,Superior completo,4100
+27,Não,3,Fundamental,1524
+46,Não,0,Médio incompleto,3985
+49,Sim,8,Superior completo,7179
+43,Sim,5,Médio incompleto,7978
+55,Não,3,Fundamental,3716
+52,Não,2,Médio incompleto,1853
+20,Sim,3,Superior completo,6926
+30,Sim,6,Médio incompleto,6877
+53,Não,1,Médio completo,3275
+45,Não,1,Médio incompleto,3796
+40,Sim,4,Médio completo,5330
+44,Não,2,Médio incompleto,2463
+29,Sim,3,Superior completo,6342
+47,Não,1,Médio completo,3022
+50,Sim,6,Superior completo,6483
+22,Sim,3,Superior completo,2729
+25,Não,0,Médio completo,1529
+52,Sim,5,Fundamental,5897
+24,Não,0,Superior completo,1312
+43,Sim,4,Médio completo,2669
+41,Não,2,Médio incompleto,3108
+59,Não,2,Médio completo,3966
+32,Sim,6,Médio completo,7466
+28,Não,3,Médio incompleto,1627
+42,Sim,6,Superior completo,6613
+56,Não,3,Fundamental,1862
+32,Sim,2,Médio completo,5077
+36,Não,1,Médio incompleto,2092
+36,Sim,7,Superior incompleto,6885
+57,Sim,4,Superior incompleto,7080
+57,Não,3,Médio completo,1764
+48,Não,0,Superior incompleto,2547
+57,Não,1,Médio incompleto,3324
+30,Não,2,Médio completo,2291
+45,Não,0,Superior incompleto,1017
+19,Sim,8,Superior completo,7789
+29,Sim,3,Superior completo,7308
+52,Não,3,Médio incompleto,3429
+40,Sim,8,Médio completo,7299
+49,Sim,7,Médio completo,4934
+37,Sim,2,Superior completo,4423
+21,Sim,2,Médio completo,6686
+47,Não,1,Superior incompleto,3642
+51,Sim,5,Médio incompleto,4089
+58,Sim,5,Superior incompleto,5465
+37,Sim,4,Superior incompleto,4108
+37,Sim,2,Médio completo,3338
+32,Sim,8,Médio completo,3901
+55,Sim,5,Médio incompleto,5061
+42,Sim,3,Médio completo,7470
+21,Sim,7,Médio completo,4203
+38,Sim,4,Médio incompleto,4538
+29,Sim,4,Médio completo,6794
+38,Não,2,Médio completo,3753
+50,Sim,4,Superior completo,4680
+26,Não,2,Superior completo,1634
+57,Sim,7,Médio incompleto,4546
+30,Não,3,Médio incompleto,3146
+47,Sim,8,Médio completo,3300
+37,Sim,5,Superior incompleto,4595
+49,Não,2,Fundamental,3351
+27,Não,0,Fundamental,1714
+53,Não,0,Médio incompleto,3787
+42,Sim,7,Médio completo,6075
+47,Não,0,Fundamental,1199
+49,Sim,2,Médio completo,4257
+27,Não,3,Médio incompleto,1968
+57,Não,3,Médio completo,2749
+24,Sim,5,Superior incompleto,4005
+34,Não,1,Médio incompleto,2204
+57,Sim,3,Superior completo,7884
+26,Sim,5,Médio incompleto,5004
+19,Não,0,Superior incompleto,1233
+58,Não,3,Fundamental,1281
+38,Não,2,Fundamental,3760
+59,Sim,8,Superior incompleto,3244
+58,Não,1,Superior incompleto,3692
+54,Sim,2,Superior incompleto,2992
+24,Sim,7,Superior completo,4814
+43,Sim,2,Superior incompleto,3575
+39,Não,0,Médio incompleto,2976
+38,Sim,3,Médio completo,4475
+51,Não,2,Superior incompleto,3234
+48,Sim,3,Superior completo,3816
+39,Não,2,Médio completo,3059
+28,Sim,8,Superior completo,5427
+42,Não,3,Superior incompleto,2726
+26,Não,1,Médio completo,3745
+59,Não,2,Fundamental,1155
+45,Sim,4,Superior completo,4960
+25,Não,2,Médio incompleto,1647
+34,Sim,8,Médio incompleto,4534
+37,Sim,6,Médio completo,5433
+48,Não,3,Superior incompleto,1738
+34,Não,1,Fundamental,3217
+37,Sim,4,Superior incompleto,3105
+55,Não,3,Médio completo,1052
+58,Não,2,Superior incompleto,2188
+47,Não,2,Médio incompleto,1044
+39,Não,1,Médio incompleto,2485
+32,Não,3,Médio completo,1178
+40,Sim,7,Fundamental,4975
+31,Sim,8,Médio completo,5322
+46,Não,1,Médio incompleto,1859
+32,Não,0,Médio completo,2208
+46,Sim,8,Médio incompleto,6209
+42,Sim,6,Superior completo,6238
+30,Não,2,Superior completo,3666
+27,Sim,4,Superior incompleto,3638
+30,Não,3,Médio incompleto,3439
+53,Não,1,Médio incompleto,1698
+42,Não,0,Superior completo,1612
+23,Sim,3,Superior completo,7794
+49,Sim,7,Médio completo,7747
+39,Não,0,Médio incompleto,1559
+60,Não,1,Superior incompleto,1033
+46,Sim,3,Médio completo,4353
+22,Não,3,Fundamental,2624
+59,Não,1,Médio incompleto,2462
+34,Sim,4,Superior completo,7181
+21,Não,1,Médio incompleto,2742
+45,Não,3,Médio completo,3097
+26,Sim,3,Superior completo,4248
+40,Não,1,Superior incompleto,3194
+18,Sim,8,Superior completo,6333
+38,Sim,7,Médio completo,5686
+52,Sim,4,Médio incompleto,4993
+18,Sim,4,Superior incompleto,5984
+51,Não,3,Médio incompleto,2472
+40,Não,3,Médio incompleto,1628
+49,Sim,5,Superior completo,7093
+20,Não,1,Médio completo,3436
+24,Sim,8,Superior completo,6249
+42,Não,3,Médio completo,1770
+57,Sim,5,Médio completo,2667
+28,Não,3,Superior incompleto,2836
+58,Sim,3,Superior incompleto,6905
+49,Não,0,Médio incompleto,3164
+59,Não,2,Superior incompleto,3571
+37,Não,3,Médio incompleto,3196
+48,Não,1,Fundamental,1913
+41,Não,0,Fundamental,2251
+26,Sim,2,Superior completo,6777
+30,Não,0,Médio incompleto,1465
+57,Sim,5,Médio incompleto,5922
+39,Sim,4,Superior incompleto,5819
+21,Não,1,Médio completo,3030
+40,Não,3,Fundamental,2814
+34,Sim,8,Superior completo,4475
+33,Sim,2,Médio incompleto,5797
+26,Sim,7,Superior completo,3449
+42,Não,1,Médio completo,3591
+35,Sim,2,Superior incompleto,2758
+26,Sim,8,Superior incompleto,7276
+22,Sim,8,Fundamental,6898
+48,Sim,4,Superior incompleto,4870
+36,Sim,5,Superior completo,7802
+49,Sim,5,Superior incompleto,6757
+39,Não,3,Superior incompleto,3203
+56,Sim,3,Superior completo,6899
+52,Não,3,Superior completo,2177
+30,Não,1,Fundamental,3459
+23,Não,0,Superior incompleto,2962
+46,Não,3,Médio incompleto,2593
+25,Não,0,Médio completo,1565
+54,Sim,7,Médio completo,3321
+29,Não,1,Superior incompleto,1753
+26,Não,2,Superior completo,3075
+21,Não,3,Fundamental,3550
+41,Não,2,Médio completo,3427
+52,Sim,7,Médio incompleto,7830
+49,Sim,8,Superior completo,5647
+35,Não,2,Médio incompleto,1064
+22,Sim,2,Médio completo,5855
+30,Sim,5,Médio completo,6589
+40,Sim,3,Superior incompleto,7797
+58,Não,2,Fundamental,1360
+24,Sim,7,Superior completo,2867
+23,Não,0,Médio completo,3383
+39,Sim,5,Superior incompleto,3639
+57,Não,1,Médio completo,2445
+41,Não,2,Médio completo,1311
+46,Sim,4,Superior completo,4724
+52,Não,1,Médio incompleto,3128
+50,Sim,5,Superior completo,3522
+23,Não,1,Superior incompleto,1178
+28,Não,3,Superior incompleto,2126
+40,Sim,5,Médio completo,2714
+44,Sim,3,Médio completo,4726
+44,Sim,8,Superior incompleto,4366
+36,Não,3,Fundamental,2260
+42,Não,2,Médio completo,3154
+53,Não,2,Médio completo,1998
+51,Sim,5,Fundamental,6826
+49,Não,3,Médio incompleto,2917
+58,Sim,8,Superior incompleto,5609
+52,Não,2,Médio completo,3560
+55,Não,1,Fundamental,1367
+23,Não,0,Fundamental,2861
+41,Sim,4,Superior completo,3048
+19,Não,0,Superior incompleto,3356
+55,Não,1,Superior incompleto,1773
+60,Sim,2,Médio incompleto,7132
+27,Sim,8,Médio completo,5234
+58,Não,1,Médio completo,1425
+51,Não,2,Médio incompleto,3225
+26,Não,2,Superior completo,2341
+54,Não,2,Médio completo,3890
+34,Sim,7,Superior incompleto,2883
+31,Não,1,Médio incompleto,2600
+20,Sim,5,Superior incompleto,6252
+38,Sim,7,Médio completo,7266
+30,Não,2,Médio completo,3587
+33,Não,1,Médio incompleto,3469
+36,Sim,3,Superior incompleto,2799
+35,Não,3,Fundamental,1843
+59,Não,1,Médio incompleto,1629
+56,Não,3,Fundamental,1865
+43,Sim,2,Médio completo,7260
+43,Não,3,Fundamental,2042
+25,Não,3,Médio completo,3120
+33,Não,1,Fundamental,2164
+37,Não,0,Médio incompleto,1874
+37,Não,3,Médio incompleto,2410
+31,Sim,3,Superior completo,3769
+25,Sim,8,Médio completo,7796
+43,Sim,8,Superior completo,4725
+51,Sim,8,Médio incompleto,7969
+50,Sim,6,Superior completo,3656
+23,Sim,8,Superior incompleto,6413
+21,Sim,5,Superior incompleto,5333
+30,Não,0,Médio completo,2366
+29,Sim,8,Superior completo,2845
+37,Não,3,Médio completo,1242
+54,Não,2,Médio incompleto,1152
+50,Sim,6,Médio completo,7030
+53,Não,2,Médio incompleto,2579
+18,Sim,5,Fundamental,7011
+29,Sim,8,Superior incompleto,2842
+26,Não,0,Fundamental,3705
+36,Sim,4,Superior incompleto,5882
+39,Sim,5,Superior incompleto,6092
+35,Sim,3,Superior completo,4280
+18,Não,3,Superior incompleto,3490
+30,Sim,7,Médio completo,6652
+38,Sim,3,Médio completo,4153
+32,Não,0,Médio incompleto,3514
+54,Não,2,Fundamental,2484
+60,Sim,5,Superior incompleto,4856
+34,Não,0,Médio incompleto,1038
+18,Sim,6,Superior completo,4379
+60,Sim,2,Superior completo,4906
+56,Não,0,Médio completo,1122
+21,Sim,6,Superior completo,5407
+46,Não,2,Médio completo,1663
+26,Não,1,Médio incompleto,3934
+29,Sim,3,Superior completo,4925
+51,Sim,8,Superior completo,4276
+32,Sim,6,Superior completo,6567
+34,Sim,8,Superior completo,4137
+52,Sim,5,Superior completo,4551
+34,Sim,3,Superior incompleto,7449
+58,Não,2,Médio completo,3054
+58,Não,0,Médio completo,1022
+55,Não,0,Superior incompleto,1539
+53,Sim,2,Fundamental,4380
+18,Não,2,Fundamental,2314
+31,Sim,3,Médio completo,4572
+25,Sim,4,Médio completo,7533
+28,Sim,3,Superior incompleto,2846
+58,Não,1,Fundamental,3207
+24,Não,2,Médio completo,3641
+54,Sim,6,Médio completo,3710
+60,Sim,4,Médio incompleto,3310
+23,Não,1,Fundamental,3576
+51,Sim,5,Médio incompleto,5683
+45,Não,2,Médio incompleto,3024
+47,Sim,4,Médio incompleto,3739
+22,Não,3,Médio incompleto,3890
+54,Não,1,Médio completo,3841
+20,Sim,3,Médio completo,5594
+48,Não,2,Médio completo,2089
+40,Sim,6,Superior incompleto,5092
+54,Sim,7,Superior completo,6480
+51,Sim,2,Superior incompleto,7900
+55,Sim,4,Médio incompleto,2594
+43,Sim,7,Fundamental,3954
+41,Sim,5,Superior incompleto,6093
+51,Sim,5,Superior completo,4080
+59,Não,0,Superior incompleto,1363
+37,Não,1,Médio completo,1459
+53,Não,3,Médio completo,3501
+56,Sim,7,Médio completo,6804
+38,Não,2,Médio incompleto,1339
+48,Sim,6,Superior completo,7220
+18,Não,1,Superior completo,1527
+53,Sim,2,Superior completo,3992
+53,Sim,6,Superior incompleto,3127
+42,Sim,5,Superior completo,4267
+44,Não,3,Médio completo,2161
+43,Sim,2,Superior incompleto,2650
+37,Não,1,Médio completo,3595
+55,Sim,8,Superior incompleto,6922
+53,Sim,6,Médio completo,7956
+35,Não,3,Médio completo,2738
+26,Sim,5,Médio incompleto,4068
+55,Não,0,Fundamental,1822
+51,Sim,2,Médio incompleto,3253
+21,Sim,4,Superior completo,7489
+43,Não,3,Médio completo,3695
+46,Sim,5,Médio completo,2549
+29,Não,0,Médio completo,2863
+26,Não,1,Superior incompleto,3774
+33,Sim,6,Médio completo,4905
+26,Não,3,Médio completo,1316
+26,Não,2,Fundamental,3290
+22,Não,3,Médio incompleto,1540
+43,Não,2,Médio incompleto,2938
+37,Não,2,Superior incompleto,2393
+49,Sim,4,Médio incompleto,6746
+59,Não,0,Médio completo,3848
+44,Sim,6,Superior completo,4436
+40,Não,0,Superior completo,3560
+29,Não,1,Superior incompleto,2657
+43,Não,1,Fundamental,3172
+37,Sim,7,Superior completo,6732
+50,Sim,3,Superior incompleto,4107
+33,Sim,4,Médio completo,7144
+46,Não,3,Superior incompleto,3085
+57,Sim,6,Superior completo,3953
+38,Sim,4,Fundamental,7786
+40,Sim,2,Superior completo,6181
+43,Não,0,Fundamental,1655
+54,Sim,7,Superior incompleto,7515
+38,Não,2,Médio incompleto,2900
+32,Não,2,Superior incompleto,2398
+18,Não,1,Médio completo,3832
+44,Sim,5,Superior incompleto,7170
+37,Sim,5,Médio incompleto,4594
+25,Não,0,Médio completo,1112
+37,Sim,4,Superior incompleto,3813
+55,Sim,3,Médio completo,4152
+53,Sim,2,Superior completo,4143
+52,Sim,2,Superior incompleto,4376
+47,Não,0,Médio completo,1884
+43,Sim,5,Médio completo,5600
+31,Sim,5,Superior completo,7160
+47,Sim,3,Médio completo,4746
+18,Sim,4,Superior incompleto,7557
+39,Não,3,Fundamental,3221
+43,Sim,3,Superior incompleto,7502
+35,Sim,6,Superior completo,7765
+48,Não,2,Médio completo,2052
+56,Sim,6,Médio completo,2671
+38,Não,0,Médio incompleto,2056
+26,Sim,6,Médio completo,3993
+36,Não,3,Superior incompleto,2279
+18,Sim,6,Médio completo,2619
+53,Sim,5,Superior incompleto,6792
+24,Sim,2,Superior incompleto,3741
+40,Não,3,Médio completo,3203
+49,Sim,8,Médio completo,4113
+38,Sim,5,Superior completo,2601
+49,Não,1,Médio incompleto,1661
+27,Sim,6,Superior incompleto,5494
+38,Não,3,Médio completo,2686
+40,Não,0,Fundamental,2169
+55,Sim,7,Superior completo,3655
+49,Não,2,Médio incompleto,3591
+46,Sim,6,Superior incompleto,5627
+33,Não,3,Médio completo,1281
+48,Sim,3,Superior incompleto,6674
+41,Sim,4,Superior completo,5113
+56,Não,1,Superior incompleto,1402
+56,Não,2,Médio incompleto,2938
+21,Sim,6,Médio completo,4206
+42,Não,1,Fundamental,1306
+41,Sim,6,Superior incompleto,2953
+23,Sim,6,Fundamental,3776
+28,Não,3,Superior incompleto,1158
+18,Não,2,Médio completo,1622
+50,Sim,6,Médio completo,7725
+36,Sim,3,Superior incompleto,5964
+38,Sim,3,Superior completo,2705
+55,Sim,3,Superior incompleto,2806
+38,Sim,4,Superior incompleto,4565
+45,Sim,2,Superior completo,5851
+20,Sim,3,Superior completo,4460
+32,Não,3,Fundamental,1462
+45,Não,2,Superior incompleto,2748
+28,Sim,3,Superior completo,5657
+34,Não,0,Médio completo,3369
+55,Sim,2,Médio completo,6061
+34,Sim,4,Superior incompleto,7802
+22,Não,2,Superior incompleto,2910
+23,Não,3,Superior incompleto,1799
+27,Não,0,Fundamental,3304
+59,Sim,4,Superior completo,4693
+32,Sim,8,Médio completo,7843
+47,Sim,6,Superior incompleto,7461
+44,Sim,8,Superior incompleto,2648
+35,Sim,4,Superior completo,5904
+23,Sim,5,Médio completo,5304
+41,Sim,5,Superior completo,6224
+23,Sim,4,Superior completo,4515
+19,Não,0,Fundamental,3062
+56,Não,3,Médio completo,3448
+25,Não,2,Médio completo,1418
+18,Sim,2,Médio incompleto,3302
+60,Não,1,Médio incompleto,3575
+57,Não,0,Médio incompleto,3511
+57,Sim,2,Médio incompleto,5866
+33,Sim,4,Superior incompleto,5546
+51,Não,0,Superior completo,1810
+60,Sim,3,Superior incompleto,6590
+38,Não,0,Superior incompleto,3044
+35,Sim,7,Médio completo,6450
+47,Sim,2,Superior incompleto,7432
+48,Não,0,Fundamental,3034
+23,Não,3,Médio completo,3386
+23,Não,2,Superior completo,3691
+54,Não,1,Médio completo,3022
+55,Sim,2,Superior completo,2753
+21,Sim,8,Superior completo,3296
+48,Sim,4,Superior incompleto,6107
+27,Sim,2,Fundamental,6944
+28,Sim,7,Superior incompleto,4663
+59,Sim,8,Superior incompleto,5505
+37,Não,0,Médio incompleto,3888
+42,Sim,8,Médio completo,5270
+59,Sim,7,Superior completo,5076
+40,Não,2,Médio completo,3703
+21,Não,2,Médio completo,3369
+27,Não,0,Médio completo,2269
+29,Não,0,Fundamental,3735
+27,Não,3,Superior incompleto,2044
+19,Não,2,Médio completo,1055
+30,Sim,5,Superior completo,7541
+29,Não,2,Médio completo,2030
+59,Não,2,Médio incompleto,2771
+60,Sim,3,Superior completo,5261
+52,Sim,6,Médio completo,4897
+56,Não,2,Médio completo,3334
+24,Sim,4,Médio completo,7039
+37,Sim,3,Fundamental,4525
+44,Sim,8,Superior incompleto,5968
+41,Não,2,Médio completo,1955
+50,Sim,5,Superior incompleto,4152
+47,Não,2,Médio completo,3764
+34,Sim,3,Superior completo,3654
+31,Sim,6,Médio incompleto,2853
+59,Não,2,Fundamental,2495
+34,Não,1,Médio completo,2103
+53,Não,2,Superior completo,3848
+22,Não,1,Médio completo,1060
+28,Sim,8,Superior completo,7147
+33,Sim,8,Fundamental,5632
+38,Não,1,Médio incompleto,1353
+35,Não,2,Médio completo,3591
+24,Sim,8,Superior incompleto,7544
+44,Sim,4,Superior completo,4371
+25,Sim,5,Superior incompleto,6383
+55,Não,2,Médio completo,3188
+36,Sim,3,Fundamental,6721
+23,Não,3,Médio completo,1341
+43,Não,1,Superior incompleto,3661
+42,Não,3,Médio completo,1859
+35,Sim,2,Superior completo,2752
+18,Não,2,Médio completo,3099
+20,Sim,5,Superior completo,4626
+30,Não,2,Superior incompleto,2385
+21,Não,1,Superior incompleto,1720
+37,Não,3,Médio incompleto,1977
+23,Sim,3,Médio completo,7510
+32,Sim,8,Médio completo,6162
+32,Sim,2,Superior completo,6714
+43,Não,3,Médio incompleto,1016
+20,Sim,7,Superior incompleto,6979
+35,Sim,2,Fundamental,3441
+56,Não,3,Fundamental,2152
+25,Não,0,Superior incompleto,2345
+23,Não,2,Médio incompleto,2665
+34,Sim,8,Superior completo,4746
+48,Não,3,Superior completo,3420
+48,Sim,3,Médio incompleto,4840
+24,Não,2,Superior incompleto,1655
+53,Sim,7,Médio completo,5976
+36,Sim,7,Médio completo,6008
+40,Sim,5,Superior incompleto,6178
+50,Não,2,Fundamental,3436
+30,Não,2,Superior incompleto,1605
+54,Sim,4,Superior incompleto,5213
+41,Sim,6,Superior incompleto,4849
+31,Sim,2,Superior completo,6057
+28,Sim,7,Superior incompleto,7632
+40,Não,3,Médio incompleto,2209
+48,Sim,6,Médio incompleto,4818
+58,Sim,4,Superior completo,7867
+50,Não,3,Médio completo,1602
+46,Sim,3,Fundamental,4655
+38,Não,2,Médio incompleto,2968
+21,Não,3,Médio completo,3313
+37,Não,1,Fundamental,3804
+19,Não,1,Médio completo,3023
+18,Não,3,Médio incompleto,1426
+18,Sim,3,Médio completo,4864
+54,Não,3,Médio completo,3005
+18,Sim,5,Médio completo,5883
+34,Sim,2,Médio completo,5125
+56,Não,2,Superior incompleto,1016
+44,Sim,4,Médio incompleto,4631
+38,Não,3,Superior incompleto,3320
+38,Não,3,Médio completo,3584
+27,Sim,5,Superior completo,6698
+36,Não,1,Superior incompleto,1970
+41,Não,0,Médio incompleto,2237
+39,Sim,2,Superior incompleto,3337
+54,Não,3,Médio completo,3866
+42,Não,3,Fundamental,1435
+38,Não,3,Médio incompleto,1044
+25,Não,0,Médio completo,2488
+38,Sim,8,Superior completo,6191
+47,Não,0,Médio incompleto,1710
+55,Sim,4,Superior incompleto,4616
+36,Não,3,Fundamental,1816
+23,Não,3,Médio completo,1360
+33,Sim,5,Superior completo,6866
+44,Sim,5,Superior incompleto,7385
+19,Não,2,Médio incompleto,1907
+25,Sim,7,Superior completo,4492
+23,Não,0,Médio incompleto,1818
+36,Sim,6,Fundamental,3412
+53,Sim,4,Médio completo,5987
+20,Sim,4,Fundamental,5580
+40,Não,0,Médio completo,2272
+40,Não,3,Fundamental,1266
+58,Sim,7,Fundamental,4734
+51,Sim,2,Médio incompleto,3297
+44,Não,2,Médio completo,2854
+36,Não,2,Médio completo,1962
+37,Não,2,Superior incompleto,1101
+47,Não,3,Superior incompleto,1373
+39,Não,3,Médio completo,2446
+34,Não,0,Superior incompleto,3798
+55,Não,3,Médio incompleto,2997
+23,Sim,8,Médio incompleto,5007
+58,Não,1,Fundamental,3167
+34,Sim,5,Superior incompleto,7701
+45,Sim,4,Superior completo,6152
+53,Não,2,Médio completo,2928
+41,Sim,7,Superior incompleto,6236
+52,Sim,8,Fundamental,6789
+32,Sim,3,Superior completo,3398
+34,Sim,2,Superior completo,6925
+30,Sim,5,Superior incompleto,4466
+46,Não,2,Superior incompleto,1153
+36,Não,3,Médio incompleto,3797
+36,Não,3,Médio incompleto,1450
+44,Não,0,Médio incompleto,3852
+34,Sim,5,Superior incompleto,7124
+30,Não,2,Médio completo,2474
+55,Sim,7,Médio incompleto,7601
+45,Não,0,Fundamental,3958
+49,Não,2,Médio incompleto,3712
+53,Sim,3,Médio completo,4796
+43,Não,2,Fundamental,1590
+29,Sim,5,Médio completo,4835
+30,Não,0,Fundamental,1604
+21,Sim,3,Fundamental,4143
+41,Sim,8,Fundamental,4353
+35,Não,3,Superior incompleto,3127
+54,Sim,2,Superior completo,7018
+57,Sim,7,Superior incompleto,6905
+57,Sim,3,Médio completo,5473
+39,Não,2,Médio incompleto,2142
+45,Sim,7,Superior incompleto,5492
+40,Sim,3,Médio completo,6561
+37,Sim,8,Médio incompleto,4846
+24,Sim,8,Médio completo,5497
+52,Não,3,Superior incompleto,2533
+40,Não,3,Médio incompleto,1775
+55,Não,2,Fundamental,2772
+34,Sim,4,Médio completo,5820
+42,Não,3,Médio completo,1294
+38,Não,2,Médio incompleto,2256
+24,Não,0,Superior incompleto,3073
+54,Não,3,Médio completo,3447
+24,Não,2,Médio completo,3946
+43,Sim,5,Fundamental,2743
+32,Sim,8,Médio completo,6391
+27,Não,0,Médio incompleto,2618
+35,Não,1,Médio completo,1579
+23,Não,0,Fundamental,2896
+48,Não,2,Fundamental,1950
+41,Sim,8,Superior incompleto,2959
+59,Sim,3,Superior incompleto,7842
+40,Sim,2,Superior completo,5165
+19,Não,1,Médio incompleto,2814
+41,Sim,7,Superior incompleto,7984
+38,Sim,4,Superior incompleto,3206
+47,Não,1,Médio incompleto,2625
+20,Sim,2,Médio incompleto,6514
+45,Sim,8,Médio completo,7935
+34,Sim,4,Superior completo,4637
+48,Não,1,Médio completo,1718
+29,Não,3,Médio incompleto,2723
+47,Não,2,Médio incompleto,2103
+44,Não,1,Médio completo,3567
+28,Sim,6,Superior incompleto,7152
+25,Sim,8,Superior incompleto,6982
+57,Sim,2,Superior incompleto,2996
+58,Não,3,Superior incompleto,2711
+32,Sim,2,Médio completo,5501
+20,Não,3,Médio completo,1983
+24,Não,0,Fundamental,2770
+57,Sim,8,Superior incompleto,6389
+44,Não,2,Médio incompleto,3657
+43,Não,3,Médio completo,1034
+27,Sim,8,Superior completo,3585
+30,Sim,3,Superior completo,7889
+43,Não,0,Fundamental,1915
+59,Não,1,Superior incompleto,3846
+48,Sim,3,Superior incompleto,4973
+29,Não,0,Médio incompleto,1963
+56,Sim,8,Médio completo,5572
+41,Sim,5,Médio completo,7022
+47,Não,0,Superior incompleto,3765
+49,Não,2,Fundamental,2539
+58,Sim,6,Fundamental,6380
+34,Não,3,Médio completo,3094
+26,Não,1,Médio completo,2030
+27,Não,2,Médio incompleto,1002
+55,Sim,2,Superior completo,7020
+39,Não,0,Superior incompleto,1993
+24,Sim,3,Médio incompleto,6065
+51,Sim,7,Fundamental,6908
+22,Não,2,Fundamental,2890
+26,Não,1,Fundamental,3315
+21,Não,0,Médio completo,1170
+19,Sim,3,Superior incompleto,6765
+56,Não,0,Fundamental,1160
+39,Não,3,Médio completo,3983
+57,Não,3,Médio completo,1868
+29,Sim,8,Superior completo,6435
+57,Sim,7,Superior completo,4533
+48,Não,0,Médio incompleto,1707
+38,Sim,5,Médio completo,7557
+33,Não,1,Médio incompleto,2461
+20,Não,0,Médio incompleto,2886
+37,Sim,4,Superior completo,7730
+51,Sim,7,Superior incompleto,6105
+24,Não,1,Superior incompleto,1031
+25,Não,0,Médio completo,3307
+36,Não,2,Médio incompleto,3231
+35,Não,2,Médio incompleto,1359
+60,Sim,4,Superior incompleto,6083
+22,Sim,8,Superior completo,5665
+23,Não,1,Médio completo,1993
+26,Não,2,Médio incompleto,2977
+22,Sim,2,Médio completo,3666
+23,Não,3,Médio completo,3343
+28,Sim,3,Superior completo,2732
+34,Não,1,Superior incompleto,3623
+19,Não,2,Médio completo,2904
+49,Sim,5,Superior completo,5228
+20,Sim,4,Médio completo,6655
+46,Sim,8,Superior completo,6374
+42,Não,1,Superior incompleto,3316
+25,Sim,6,Médio completo,3069
+25,Sim,4,Médio completo,7794
+34,Sim,7,Superior completo,3294
+18,Sim,5,Superior incompleto,7361
+31,Não,2,Médio incompleto,1660
+58,Não,0,Fundamental,1560
+60,Não,3,Médio incompleto,3672
+53,Não,0,Médio completo,2171
+37,Sim,6,Superior completo,3991
+32,Não,0,Médio completo,2338
+22,Não,1,Fundamental,1313
+52,Não,2,Fundamental,3600
+27,Sim,6,Superior incompleto,6753
+50,Não,3,Médio incompleto,3128
+45,Sim,5,Superior completo,5352
+53,Sim,4,Médio completo,6381
+25,Não,3,Fundamental,3433
+26,Sim,2,Superior incompleto,3607
+18,Sim,2,Superior completo,7247
+28,Não,2,Superior incompleto,2402
+36,Não,2,Fundamental,3929
+28,Não,2,Médio completo,1692
+19,Sim,6,Superior completo,5625
+53,Sim,5,Médio incompleto,7036
+36,Sim,4,Médio incompleto,7274
+48,Sim,8,Fundamental,7051
+40,Não,0,Médio completo,2805
+31,Não,1,Médio incompleto,2373
+30,Não,0,Médio incompleto,3309
+44,Sim,3,Fundamental,7947
+56,Sim,3,Fundamental,3172
+24,Sim,3,Fundamental,5421
+22,Sim,5,Superior incompleto,3867
+29,Sim,6,Superior incompleto,4626
+50,Não,2,Superior incompleto,3244
+18,Não,2,Médio completo,3844
+38,Não,2,Médio incompleto,3305
+56,Sim,5,Médio completo,5328
+30,Não,1,Superior incompleto,1921
+57,Sim,4,Médio incompleto,3041
+18,Sim,4,Médio completo,4104
+56,Sim,4,Médio completo,7440
+22,Não,1,Fundamental,3019
+49,Não,0,Médio completo,3727
+36,Sim,2,Médio completo,6203
+56,Sim,8,Médio completo,5502
+21,Não,1,Médio incompleto,3129
+59,Não,0,Médio completo,2512
+59,Não,3,Médio incompleto,3633
+40,Não,1,Médio incompleto,3246
+26,Sim,7,Superior completo,2767
+55,Não,0,Médio incompleto,2098
+21,Não,1,Médio completo,3721
+27,Sim,4,Superior incompleto,6291
+26,Sim,2,Médio completo,7922
+26,Sim,2,Superior incompleto,5656
+28,Não,2,Médio incompleto,3658
+24,Sim,6,Superior completo,4139
+44,Sim,5,Superior completo,4540
+36,Sim,3,Superior completo,2539
+53,Sim,3,Médio incompleto,3093
+55,Sim,4,Superior completo,3174
+38,Sim,3,Superior completo,6165
+28,Sim,5,Médio completo,2760
+58,Sim,4,Superior completo,4256
+36,Sim,4,Superior completo,5007
+52,Sim,2,Fundamental,6650
+57,Não,3,Superior incompleto,2802
+57,Sim,8,Superior completo,3496
+39,Não,3,Superior incompleto,1287
+34,Não,3,Fundamental,2966
+21,Não,3,Fundamental,3782
+32,Sim,3,Médio completo,3553
+20,Sim,2,Superior incompleto,7259
+57,Sim,3,Superior completo,7951
+56,Não,0,Médio incompleto,3390
+43,Não,2,Médio incompleto,1904
+22,Não,0,Fundamental,1212
+59,Não,1,Médio incompleto,3657
+43,Sim,8,Superior incompleto,7985
+43,Sim,6,Médio completo,7269
+18,Não,0,Superior incompleto,3743
+59,Não,0,Superior completo,2284
+59,Sim,8,Médio completo,3771
+18,Sim,8,Superior completo,7213
+22,Sim,5,Médio completo,4719
+38,Não,3,Superior incompleto,3549
+53,Sim,4,Fundamental,6094
+19,Sim,8,Superior incompleto,6137
+21,Não,2,Fundamental,1685
+36,Não,3,Médio incompleto,2757
+57,Sim,6,Médio incompleto,3506
+46,Sim,7,Médio incompleto,3101
+49,Sim,8,Médio completo,7862
+23,Sim,2,Superior completo,4208
+60,Não,3,Médio completo,2061
+36,Não,2,Médio incompleto,3238
+28,Sim,3,Médio completo,6992
+29,Não,1,Médio completo,1277
+44,Não,0,Médio incompleto,1261
+42,Sim,2,Superior completo,3617
+32,Não,2,Superior completo,3514
+20,Não,2,Médio incompleto,3416
+34,Sim,8,Superior incompleto,2996
+23,Não,1,Fundamental,1641
+60,Sim,6,Médio completo,5124
+36,Não,2,Superior incompleto,2096
+47,Não,0,Fundamental,3180
+25,Sim,7,Superior completo,3424
+26,Sim,3,Médio completo,7564
+20,Sim,5,Superior completo,6126
+23,Sim,3,Superior completo,5946
+36,Sim,5,Superior incompleto,5505
+58,Não,1,Médio completo,1238
+29,Não,1,Médio completo,3370
+27,Não,3,Fundamental,1646
+26,Sim,3,Médio completo,7266
+26,Sim,5,Superior incompleto,5385
+48,Não,2,Fundamental,3252
+41,Sim,3,Superior completo,2760
+20,Não,0,Médio incompleto,3138
+51,Sim,4,Superior completo,3086
+25,Sim,3,Superior completo,7610
+53,Não,2,Médio completo,1133
+33,Não,3,Médio incompleto,3086
